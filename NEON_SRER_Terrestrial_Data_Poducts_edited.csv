@@ -1,0 +1,72 @@
+Name,Code,Supplier,SRER
+2D Wind Speed and Direction,DP1.00001.001,TIS,2017
+Single Aspirated Air Temperature,DP1.00002.001,TIS,2017
+Triple Aspirated Air Temperature,DP1.00003.001,TIS,2017
+Barometric Pressure,DP1.00004.001,TIS,2017
+IR Biological Temperature,DP1.00005.001,TIS,2017
+Precipitation,DP1.00006.001,TIS,2017
+Wet deposition chemical analysis,DP1.00013.001,TIS,2018
+Shortwave Radiation (Direct and Diffuse Pyranometer),DP1.00014.001,TIS,2017
+Dust and Particulate Size Distribution,DP1.00017.001,TIS,2017
+Shortwave Radiation (Primary Pyranometer),DP1.00022.001,TIS,2017
+Shortwave and Longwave Radiation (Net radiometer),DP1.00023.001,TIS,2017
+Photosynthetically Active Radiation (PAR),DP1.00024.001,TIS,2017
+Phenology images,DP1.00033.001,TIS,2017
+Stable isotope concentrations in precipitation,DP1.00038.001,TIS,2018
+Soil heat flux plate,DP1.00040.001,TIS,2017
+Soil temperature,DP1.00041.001,TIS,2017
+Snow depth and understory phenology images,DP1.00042.001,TIS,2017
+Spectral Sun Photometer/Calibrated Sky Radiances,DP1.00043.001,TIS,2017
+Photosynthetically active radiation (Quantum Line),DP1.00066.001,TIS,2017
+Soil water and salinity,DP1.00094.001,TIS,2017
+Soil CO2 concentration,DP1.00095.001,TIS,2017
+Soil physical properties (Megapit),DP1.00096.001,TIS,2013
+Soil chemical properties (Megapit),DP1.00097.001,TIS,2013
+Relative Humidity,DP1.00098.001,TIS,2017
+Particulate Mass,DP1.00101.001,TIS,2017
+Temporally Interpolated Biological Temperature,DP2.00004.001,TIS,2017
+Temporally interpolated Photosynthetically Active Radiation,DP2.00005.001,TIS,2017
+Temporally Interpolated Soil Temperature,DP2.00006.001,TIS,2017
+Temporally Interpolated PAR?Line,DP2.00016.001,TIS,2017
+Temporally Interpolated Shortwave and Longwave Radiation (Net radiometer),DP2.00020.001,TIS,2017
+Temporally Interpolated Triple Aspirated Tower Temperature,DP2.00023.001,TIS,2017
+Summary weather statistics,DP4.00001.001,TIS,2017
+Breeding landbird point counts,DP1.10003.001,TOS,2017
+Soil chemical properties (Distributed initial characterization),DP1.10008.001,TOS,2018
+Coarse downed wood log survey,DP1.10010.001,TOS,2017
+Coarse downed wood bulk density sampling,DP1.10014.001,TOS,2017
+Digital hemispheric photos of Plot Vegetation,DP1.10017.001,TOS,2016
+Ground beetle sequences DNA barcode,DP1.10020.001,TOS,2016
+Ground beetles sampled from pitfall traps,DP1.10022.001,TOS,2016
+Herbaceous clip harvest,DP1.10023.001,TOS,2016
+Plant foliar physical and chemical properties,DP1.10026.001,TOS,2019
+Litter chemical properties,DP1.10031.001,TOS,2019
+Litterfall and fine woody debris sampling,DP1.10033.001,TOS,2016
+Mosquito sequences DNA barcode,DP1.10038.001,TOS,2016
+Mosquito?borne pathogen status,DP1.10041.001,TOS,2016
+Mosquitoes sampled from CO2 traps,DP1.10043.001,TOS,2016
+Non-herbaceous perennial vegetation structure,DP1.10045.001,TOS,2016
+Soil physical properties (Distributed initial characterization),DP1.10047.001,TOS,2018
+Plant foliar stable isotopes,DP1.10053.001,TOS,2019
+Plant phenology observations,DP1.10055.001,TOS,2016
+Plant presence and percent cover,DP1.10058.001,TOS,2016
+Rodent?borne pathogen status,DP1.10064.001,TOS,2016
+Root sampling (megapit),DP1.10066.001,TOS,2013
+Root sampling tower plots,DP1.10067.001,TOS,2019
+Small mammal box trapping,DP1.10072.001,TOS,2016
+Small mammal sequences DNA barcode,DP1.10076.001,TOS,2016
+Soil chemical properties (Distributed periodic),DP1.10078.001,TOS,2016
+Soil inorganic nitrogen pools and transformations,DP1.10080.001,TOS,2019
+Soil microbe community composition,DP1.10081.001,TOS,2016
+Soil physical properties (Distributed periodic),DP1.10086.001,TOS,2016
+Tick?borne pathogen status,DP1.10092.001,TOS,2016
+Ticks sampled using drag cloths,DP1.10093.001,TOS,2016
+Woody plant vegetation structure,DP1.10098.001,TOS,2016
+Root stable isotopes,DP1.10099.001,TOS,2019
+Soil stable isotopes (Distributed periodic),DP1.10100.001,TOS,2016
+Litter stable isotopes,DP1.10101.001,TOS,2019
+Root chemical properties,DP1.10102.001,TOS,2019
+Soil microbe biomass,DP1.10104.001,TOS,2019
+Soil microbe metagenome sequences,DP1.10107.001,TOS,2016
+Soil microbe marker gene sequences,DP1.10108.001,TOS,2016
+Soil microbe group abundances,DP1.10109.001,TOS,2016
